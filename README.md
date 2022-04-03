@@ -1,9 +1,5 @@
 # SafeInNet
 
-[Get Lat-Long](https://www.latlong.net/convert-address-to-lat-long.html)
-
-# SafeInNet
-
 ## Introduction
 We present to you SafeInNet, a dynamic social network to help women determine the safest roads and prevent their journey from being full of despair. We are a community of users who support each other and make sure all of us feel safe and can live without fear. Utilizing intent analysis and location mapping, we provide a modern solution to women's safety!
 
@@ -67,3 +63,9 @@ Some of the key take-aways from developing this project underline our newfound l
 ## What's next for SafeInNet
 
 We hope to make the application available on native mobile devices. As well as integrate live location tracking through it!
+
+## Try it out!
+
+
+[Get Lat-Long](https://www.latlong.net/convert-address-to-lat-long.html)
+[Link](https://share.streamlit.io/amanpriyanshu/safeinnet/main/app.py)
