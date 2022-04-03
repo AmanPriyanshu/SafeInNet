@@ -22,7 +22,7 @@ def update_sidebar(x=None, y=None, max_len=60):
 	reviews = get_reviews(x, y, N=5)
 	with st.sidebar:
 		img_col, company_name_col = st.columns([4, 11])
-		img_col.image('logo.jpg', use_column_width=True)
+		img_col.image('logo.png', use_column_width=True)
 		rating_bar_path = get_ratings_bar(x, y, [i[1] for i in reviews])
 		company_name_col.title("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"+project_name)
 		company_name_col.write(mission)
