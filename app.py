@@ -120,7 +120,7 @@ def app():
 		if len(numbers)>0:
 			client = Client(st.secrets["TWILIO_ACCOUNT_SID"], st.secrets["TWILIO_AUTH_TOKEN"])
 			for number in numbers:
-				message = client.messages.create(to='+'+str(number), from_="+17652751440", body="SOS message at loc:"+str(x)+","+str(y))
+				message = client.messages.create(to='+'+str(number), from_="+17652751440", body="A member of SafeInNet community is in trouble and requires your help! SOS message at loc:"+str(x)+","+str(y))
 		else:
 			st.write("No registerations so far!")
 
