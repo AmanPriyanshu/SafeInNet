@@ -12,8 +12,8 @@ from twilio.rest import Client
 
 geolocator = Nominatim(user_agent="geoapiExercises")
 
-project_name = "ProjectUno"
-mission = "Please write atleast 2 lines and at max 4 lines here!"
+project_name = "SafeInNet"
+mission = "Here, we present to you SafeInNet, a dynamic social network to help women determine the safest roads and prevent their journey from being full of despair!"
 base_loc = (40.6635697,-73.9299531)
 
 def update_sidebar(x=None, y=None, max_len=60):
