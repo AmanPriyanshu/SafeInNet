@@ -67,5 +67,6 @@ We hope to make the application available on native mobile devices. As well as i
 ## Try it out!
 
 
+[Link to project](https://share.streamlit.io/amanpriyanshu/safeinnet/main/app.py)
+
 [Get Lat-Long](https://www.latlong.net/convert-address-to-lat-long.html)
-[Link](https://share.streamlit.io/amanpriyanshu/safeinnet/main/app.py)
