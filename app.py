@@ -108,6 +108,7 @@ def app():
 				phone_no_df = pd.DataFrame({"name":[name], "phone_no": [phone_no], "lat": [x], "long": [y]})
 				phone_no_df.to_csv("./data/phone_no.csv", index=False, mode="a", header=False)
 			else:
+				update_sidebar()
 				st.success("Successfully Recorded")
 		else:
 			st.error("Please enter a valid phone number!")
