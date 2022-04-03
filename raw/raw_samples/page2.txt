@@ -1,0 +1,808 @@
+<div class="rb_list-and-map-box">
+			<div id="rb_list-view">
+							<div id="incident_12280" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12280">
+							<img alt="Someone catcalled a girl" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12280">
+								Someone catcalled a girl							</a>
+							<a href="https://maps.safecity.in/reports/view/12280#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:00 Sep 12, 2019</p>
+						<div class="r_description"> A girl walk passed and someone started cat calling.  
+						  <a class="btn-show btn-more" href="#incident_12280">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12280">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12660">Jalan Anjung U8/34, Bukit Jelutong, 40150 Shah Alam, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12275" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12275">
+							<img alt="LRT USJ 7" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=8">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_8_1358544150_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Touching /Groping</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12275">
+								LRT USJ 7							</a>
+							<a href="https://maps.safecity.in/reports/view/12275#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">11:00 Sep 10, 2019</p>
+						<div class="r_description"> i was going down the stairs and a man skipped past me, pretending to be on the phone on one hand while taking the advantage to touch my butt...  
+						  <a class="btn-show btn-more" href="#incident_12275">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12275">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12655">Persiaran Kewajipan, Usj 6, 47600 Subang Jaya, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12238" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12238">
+							<img alt="Commenting" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12238">
+								Commenting							</a>
+							<a href="https://maps.safecity.in/reports/view/12238#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">09:00 Sep 06, 2019</p>
+						<div class="r_description"> At around 9 am in the morning, I was walking through the lane. It is like a little village road even though in the city. A group of boys standing...  
+						  <a class="btn-show btn-more" href="#incident_12238">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12238">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12618">Bahirat Patil Complex, Shivajinagar, 1090B, Hare Krishna Mandir Rd, Model Colony, Shivajinagar, Pune, Maharashtra 411016, India</a></p>
+											</div>
+				</div>
+							<div id="incident_12239" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12239">
+							<img alt="Commenting" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12239">
+								Commenting							</a>
+							<a href="https://maps.safecity.in/reports/view/12239#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">09:00 Sep 06, 2019</p>
+						<div class="r_description"> I usually walk through this lane around 9 am in the morning as I go to work. It is like a village road. As I was walking through I noticed a...  
+						  <a class="btn-show btn-more" href="#incident_12239">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12239">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12619">Bahirat Patil Complex, Shivajinagar, 1090B, Hare Krishna Mandir Rd, Model Colony, Shivajinagar, Pune, Maharashtra 411016, India</a></p>
+											</div>
+				</div>
+							<div id="incident_12235" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12235">
+							<img alt="SEX ADDICT" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=6">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_6_1358281039_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Ogling/Facial Expressions/Staring</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=20">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_20_1446637943_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Stalking</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=9">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_9_1358281146_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Indecent exposure</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=8">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_8_1358544150_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Touching /Groping</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=10">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_10_1358281168_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Sexual Invites</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=11">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_11_1358281186_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Rape / Sexual Assault</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=15">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_15_1358281198_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Others</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12235">
+								SEX ADDICT							</a>
+							<a href="https://maps.safecity.in/reports/view/12235#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">18:30 Sep 01, 2019</p>
+						<div class="r_description"> He is an insatiable sex Addict who manipulated and seduces or sexually assaults HUNDREDS of naive women and men that he meets online and at...  
+						  <a class="btn-show btn-more" href="#incident_12235">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12235">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12615">21038 Kirkland Woods Dr, Houston, TX 77095, USA</a></p>
+											</div>
+				</div>
+							<div id="incident_12291" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12291">
+							<img alt="LRT Puchong Line" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=6">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_6_1358281039_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Ogling/Facial Expressions/Staring</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12291">
+								LRT Puchong Line							</a>
+							<a href="https://maps.safecity.in/reports/view/12291#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">15:00 Aug 17, 2019</p>
+						<div class="r_description"> I was in the lrt and a man duduk beside me and like turned his body slightly facing me and just pandang i. so I looked back at him, buat eye...  
+						  <a class="btn-show btn-more" href="#incident_12291">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12291">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12671">Pusat Bandar Puchong, Pusat Bandar Puchong, 47100 Puchong, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12287" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12287">
+							<img alt="Catcalled while passing by" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12287">
+								Catcalled while passing by							</a>
+							<a href="https://maps.safecity.in/reports/view/12287#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">21:00 Aug 14, 2019</p>
+						<div class="r_description"> I was walking to my car and 2 guys driving past winded down their window &amp; whistled at me and said I love you. I ignored them and walked off.  
+						  <a class="btn-show btn-more" href="#incident_12287">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12287">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12667">18, Jalan SS 15/4, Ss 15, 47500 Subang Jaya, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12273" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12273">
+							<img alt="Filming / taking pics" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=3">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_3_1358281060_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Taking pictures</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12273">
+								Filming / taking pics							</a>
+							<a href="https://maps.safecity.in/reports/view/12273#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">14:00 Aug 12, 2019</p>
+						<div class="r_description"> at first he was playing his phone (games). but then he started to look at me. at the time he start to recorded me, i know because the way he...  
+						  <a class="btn-show btn-more" href="#incident_12273">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12273">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12653">197, Jalan 8/1, Seksyen 8, 43650 Bandar Baru Bangi, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12290" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12290">
+							<img alt="Near parking area" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12290">
+								Near parking area							</a>
+							<a href="https://maps.safecity.in/reports/view/12290#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">13:00 Aug 11, 2019</p>
+						<div class="r_description"> was waiting to cross the road at the traffic light. The man was in a lorry &amp; he stopped and started commenting about my outfit.  
+						  <a class="btn-show btn-more" href="#incident_12290">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12290">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12670">Ss 13, 47500 Subang Jaya, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12301" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12301">
+							<img alt="UITM: catcalled" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12301">
+								UITM: catcalled							</a>
+							<a href="https://maps.safecity.in/reports/view/12301#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">10:00 Aug 10, 2019</p>
+						<div class="r_description"> I was walking home from a camp and someone from the college i was walking pass started making weird comments  
+						  <a class="btn-show btn-more" href="#incident_12301">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12301">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12681">40450 Shah Alam, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12295" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12295">
+							<img alt="Shop lots, mechanics" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12295">
+								Shop lots, mechanics							</a>
+							<a href="https://maps.safecity.in/reports/view/12295#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">16:00 Aug 03, 2019</p>
+						<div class="r_description"> the mechanics working at the car shops often catcall my friends and i whenever we walk pass by and most of the times they stare for a while...  
+						  <a class="btn-show btn-more" href="#incident_12295">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12295">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12675">25, Jalan PJS 11/24, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_13161" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/13161">
+							<img alt="Sexual harassment by orthodontist" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/13161">
+								Sexual harassment by orthodontist							</a>
+							<a href="https://maps.safecity.in/reports/view/13161#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">11:00 Aug 02, 2019</p>
+						<div class="r_description"> I reported it to my parents and they had to get my dentist changed  
+						  <a class="btn-show btn-more" href="#incident_13161">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_13161">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=13541">24, Ramakanta Mistri Ln, Cossipore, Newland, College Square, Kolkata, West Bengal 700073, India</a></p>
+											</div>
+				</div>
+							<div id="incident_12230" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12230">
+							<img alt="Verbal harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=6">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_6_1358281039_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Ogling/Facial Expressions/Staring</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12230">
+								Verbal harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12230#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">17:00 Jul 31, 2019</p>
+						<div class="r_description"> Non-transit-user asking personal/contact information (name, in school, where/what studying, etc), only ceased when learned I had a [pretend]...  
+						  <a class="btn-show btn-more" href="#incident_12230">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12230">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12610">5501 S Ashland Ave, Chicago, IL 60636, USA</a></p>
+											</div>
+				</div>
+							<div id="incident_12241" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12241">
+							<img alt="Flashing on the skywalk" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=9">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_9_1358281146_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Indecent exposure</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=10">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_10_1358281168_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Sexual Invites</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=18">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_18_1402894318_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Poor / No Street Lighting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12241">
+								Flashing on the skywalk							</a>
+							<a href="https://maps.safecity.in/reports/view/12241#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">20:30 Jul 10, 2019</p>
+						<div class="r_description"> I was walking on the skywalk of the Grant Road Railway Station when a man unzipped his pants, popped out his penis and dangled it in front of...  
+						  <a class="btn-show btn-more" href="#incident_12241">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12241">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12621">Frere Bridge, Grant Road West, Zoroastrian Colony, Grant Road, Mumbai, Maharashtra 400007</a></p>
+											</div>
+				</div>
+							<div id="incident_12293" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12293">
+							<img alt="Catcalled" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12293">
+								Catcalled							</a>
+							<a href="https://maps.safecity.in/reports/view/12293#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">14:00 Jul 10, 2019</p>
+						<div class="r_description"> walked pass a group of guys, catcalls and called us to go back, constant whistles. We sprinted across after  
+						  <a class="btn-show btn-more" href="#incident_12293">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12293">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12673">Stesen Sentral Kuala Lumpur, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12267" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12267">
+							<img alt="LRT Setiawangsa" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=3">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_3_1358281060_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Taking pictures</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12267">
+								LRT Setiawangsa							</a>
+							<a href="https://maps.safecity.in/reports/view/12267#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">10:00 Jul 10, 2019</p>
+						<div class="r_description"> The coloured guy straight up held his phone in front of my face and took some pictures. After he has done that he stared at me for a long time....  
+						  <a class="btn-show btn-more" href="#incident_12267">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12267">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12647">Jalan Jelatek, 54200 Kuala Lumpur, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12296" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12296">
+							<img alt="Sunway Pyramid" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=20">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_20_1446637943_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Stalking</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12296">
+								Sunway Pyramid							</a>
+							<a href="https://maps.safecity.in/reports/view/12296#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">19:00 Jul 05, 2019</p>
+						<div class="r_description"> Too many times to count honestly. One time a person came up to me and was standing too close for comfort and I went by him and he started following...  
+						  <a class="btn-show btn-more" href="#incident_12296">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12296">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12676">3, Jalan PJS 11/15, Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_12279" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12279">
+							<img alt="Catcalled while walking" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12279">
+								Catcalled while walking							</a>
+							<a href="https://maps.safecity.in/reports/view/12279#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">13:00 Jul 02, 2019</p>
+						<div class="r_description"> I was walking to work when I heard a man cat-called from a building nearby. Another man also whistled and greeted me under his breath within...  
+						  <a class="btn-show btn-more" href="#incident_12279">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12279">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12659">8, Jalan SS 13/6, Subang Jaya Industrial Estate, 47500 Subang Jaya, Selangor, Malaysia</a></p>
+											</div>
+				</div>
+							<div id="incident_13162" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/13162">
+							<img alt="Groped" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=6">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_6_1358281039_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Ogling/Facial Expressions/Staring</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=8">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_8_1358544150_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Touching /Groping</span>
+									</a>
+																							
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=18">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_18_1402894318_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Poor / No Street Lighting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/13162">
+								Groped							</a>
+							<a href="https://maps.safecity.in/reports/view/13162#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">16:00 Jun 14, 2019</p>
+						<div class="r_description"> Groped on a bus  
+						  <a class="btn-show btn-more" href="#incident_13162">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_13162">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=13542">Unnamed Road, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi, Delhi 110064, India</a></p>
+											</div>
+				</div>
+							<div id="incident_12278" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12278">
+							<img alt="In the car" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=8">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_8_1358544150_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Touching /Groping</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12278">
+								In the car							</a>
+							<a href="https://maps.safecity.in/reports/view/12278#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">23:00 Jun 12, 2019</p>
+						<div class="r_description"> My colleague pernah raba i waktu dalam kereta masa kami otw utk buat kerja malam malam. But he doesnt feel bad about it and even ask for a kiss...  
+						  <a class="btn-show btn-more" href="#incident_12278">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12278">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12658">36, K8, Bandar Alor Setar, 05460 Alor Setar, Kedah, Malaysia</a></p>
+											</div>
+				</div>
+						</div>
+			<div id="rb_map-view" style="display:none; width: 590px; height: 384px; border:1px solid #CCCCCC; margin: 3px auto;">
+			</div>
+		</div>

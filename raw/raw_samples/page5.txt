@@ -1,0 +1,706 @@
+<div class="rb_list-and-map-box">
+			<div id="rb_list-view">
+							<div id="incident_12132" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12132">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12132">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12132#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> A girl says where she lives there a person who does sex and calls her beutiful  
+						  <a class="btn-show btn-more" href="#incident_12132">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12132">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12512">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12133" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12133">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=8">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_8_1358544150_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Touching /Groping</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12133">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12133#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> There is a  boy classmate who loves touching in their private parts and threatens them not to say anything to the teacher .  
+						  <a class="btn-show btn-more" href="#incident_12133">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12133">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12513">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12134" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12134">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12134">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12134#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> A girl says that her neighbor wanted to have sex with his child but the child reported him and he was caught  
+						  <a class="btn-show btn-more" href="#incident_12134">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12134">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12514">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12135" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12135">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=1">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_1_1362085740_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Catcalls/Whistles</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12135">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12135#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> A girl says there is a man who loves disturbing her when she has been sent to the shop by her parents  
+						  <a class="btn-show btn-more" href="#incident_12135">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12135">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12515">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12136" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12136">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12136">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12136#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> Someone says her friend slept with a boy after school  
+						  <a class="btn-show btn-more" href="#incident_12136">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12136">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12516">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12137" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12137">
+							<img alt="question" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12137">
+								question							</a>
+							<a href="https://maps.safecity.in/reports/view/12137#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> If a boy wants you to do sex with him and tells you that if you shout or tell anyone  he will kill you.What is the best action to take?  
+						  <a class="btn-show btn-more" href="#incident_12137">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12137">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12517">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12139" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12139">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12139">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12139#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> A girl says that a man wants to have me for himself as a wife . And she she doesn't like him and he is now spreading to other boys that she...  
+						  <a class="btn-show btn-more" href="#incident_12139">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12139">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12519">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12140" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12140">
+							<img alt="saying" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12140">
+								saying							</a>
+							<a href="https://maps.safecity.in/reports/view/12140#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> A girl says she has a friend who likes masturbating  
+						  <a class="btn-show btn-more" href="#incident_12140">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12140">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12520">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12143" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12143">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12143">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12143#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> If a person at the age of my father want to have a relationship with you and want to have sex with you what will you do?  
+						  <a class="btn-show btn-more" href="#incident_12143">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12143">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12523">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12144" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12144">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=20">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_20_1446637943_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Stalking</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12144">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12144#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> There is a boy who  comes at our shop and says he wants us to be friends  but I refused if he follows me what should I do  
+						  <a class="btn-show btn-more" href="#incident_12144">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12144">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12524">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12145" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12145">
+							<img alt="question" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12145">
+								question							</a>
+							<a href="https://maps.safecity.in/reports/view/12145#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> If a boy has HIV and you sleep with him will you get HIV ?  
+						  <a class="btn-show btn-more" href="#incident_12145">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12145">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12525">Kibera slum, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12172" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12172">
+							<img alt="question" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12172">
+								question							</a>
+							<a href="https://maps.safecity.in/reports/view/12172#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> Is condom 100% protective and if you have sex when you are experiencing your monthly period will you get pregnant?  
+						  <a class="btn-show btn-more" href="#incident_12172">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12172">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12552">Kibera, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12173" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12173">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12173">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12173#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> If someone tells you that he loves you and is ready to wait till you finiosh school and will never force you to do anything you don't want ,is...  
+						  <a class="btn-show btn-more" href="#incident_12173">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12173">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12553">Kibera, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12176" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12176">
+							<img alt="question" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12176">
+								question							</a>
+							<a href="https://maps.safecity.in/reports/view/12176#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> If you love somebody in your class should you tell him or not?  
+						  <a class="btn-show btn-more" href="#incident_12176">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12176">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12556">Dongar Tamasi, Maharashtra, India</a></p>
+											</div>
+				</div>
+							<div id="incident_12180" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12180">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12180">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12180#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> I saw a friend of mine being touched by a boy .Please help her .Sheila  
+						  <a class="btn-show btn-more" href="#incident_12180">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12180">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12560">Dongar Tamasi, Maharashtra, India</a></p>
+											</div>
+				</div>
+							<div id="incident_12188" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12188">
+							<img alt="asking" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12188">
+								asking							</a>
+							<a href="https://maps.safecity.in/reports/view/12188#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> I have a friend who is pregnant and she is 12 years , her parents and friends are sayind she should abort ,what should i DO AS FRIEND  
+						  <a class="btn-show btn-more" href="#incident_12188">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12188">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12568">Kibera, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12189" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12189">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=20">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_20_1446637943_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Stalking</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12189">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12189#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> There is a boy who likes to follow me and I don't know what to do  
+						  <a class="btn-show btn-more" href="#incident_12189">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12189">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12569">Kibera, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12191" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12191">
+							<img alt="sexual harassment" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12191">
+								sexual harassment							</a>
+							<a href="https://maps.safecity.in/reports/view/12191#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> What can you do when a boy tells you he wants you?  
+						  <a class="btn-show btn-more" href="#incident_12191">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12191">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12571">Kibera, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12192" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12192">
+							<img alt="Asking" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=8">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_8_1358544150_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Touching /Groping</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12192">
+								Asking							</a>
+							<a href="https://maps.safecity.in/reports/view/12192#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> If you were walking at home and a boy comes and catches your buttocks and breast is there any problem ?  
+						  <a class="btn-show btn-more" href="#incident_12192">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12192">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12572">Kibera, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+							<div id="incident_12194" class="rb_report unverified">
+					<div class="r_media">
+						<p class="r_photo" style="text-align:center;"> <a href="https://maps.safecity.in/reports/view/12194">
+							<img alt="question" src="https://maps.safecity.in/media/img/report-thumb-default.jpg" style="max-width:89px;max-height:59px;"> </a>
+						</p>
+
+						<!-- Only show this if the report has a video -->
+						<p class="r_video" style="display:none;"><a href="#">Video</a></p>
+
+						<!-- Category Selector -->
+						<div class="r_categories">
+							<h4>Categories</h4>
+															
+																						
+																										<a class="r_category" href="https://maps.safecity.in/reports?c=2">
+										<span class="r_cat-box"><img src="https://maps.safecity.in/media/uploads/category_2_1358281017_16x16.png" height="16" width="16"></span> 
+										<span class="r_cat-desc">Commenting</span>
+									</a>
+																					</div>
+											</div>
+
+					<div class="r_details">
+						<h3><a class="r_title" href="https://maps.safecity.in/reports/view/12194">
+								question							</a>
+							<a href="https://maps.safecity.in/reports/view/12194#discussion" class="r_comments">
+								0</a> 
+								<span class="r_unverified">Unverified</span>							</h3>
+						<p class="r_date r-3 bottom-cap">12:49 Dec 08, 2018</p>
+						<div class="r_description"> If your periods take long time to appear what might be wrong, If a boy is disturbing you and you have refused and he still follows you what...  
+						  <a class="btn-show btn-more" href="#incident_12194">More Information »</a> 
+						  <a class="btn-show btn-less" href="#incident_12194">« Less Information</a> 
+						</div>
+						<p class="r_location"><a href="https://maps.safecity.in/reports?l=12574">Kibera,  Makina, Nairobi, Kenya</a></p>
+											</div>
+				</div>
+						</div>
+			<div id="rb_map-view" style="display:none; width: 590px; height: 384px; border:1px solid #CCCCCC; margin: 3px auto;">
+			</div>
+		</div>
